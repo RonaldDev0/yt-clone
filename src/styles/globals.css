@@ -1,0 +1,23 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+*::-webkit-scrollbar {
+  background-color: transparent;
+  width: 9px;
+}
+
+*::-webkit-scrollbar-thumb {
+  border-radius: 15px;
+  background-color: rgb(194, 194, 194);
+}
+
+.content {
+  display: flex;
+}
+
+/* .main {
+  border: 1px solid red;
+
+} */

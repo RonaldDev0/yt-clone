@@ -8,7 +8,7 @@ export default function Miniature({ item, index }: any) {
 
   return (
     <div className={style.container} onClick={() => router.push('/watch/test')}>
-      <Image src='https://i.ytimg.com/vi/SK37InR9j38/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBx60G3dflOP2qUKlLnKCa2Ka9Z3A'
+      <Image src='https://i.ytimg.com/vi/HIxEaIBSiTI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDnoX90vnFdIV1Ye1_JPTlT93lZqw'
       alt='miniature'
       width={500}
       height={270}

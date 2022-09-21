@@ -20,9 +20,9 @@ export default function Menu() {
       </div>
       <div className={style.section}>
         <p>SUSCRIPTIONS</p>
-        <div className={style.fastAcces}>Auronplay</div>
+        <div className={style.fastAcces}>Westcol</div>
         <div className={style.fastAcces}>Spreen</div>
-        <div className={style.fastAcces}>Juansguarnizo</div>
+        <div className={style.fastAcces}>Penyair</div>
         <div className={style.fastAcces}>F*cksNews</div>
         <div className={style.fastAcces}>Platzi</div>
         <br />

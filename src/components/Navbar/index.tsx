@@ -37,9 +37,9 @@ export default function Navbar({ menu, setMenu }:any) {
       </div>
 
       <div className={style.me}>
-        <button>Create</button>
-        <button>Notifications</button>
-        <button>Account</button>
+        <button onClick={()=> alert('Esta funcion aun no esta disponible')}>Create</button>
+        <button onClick={()=> alert('Esta funcion aun no esta disponible')}>Notifications</button>
+        <button onClick={()=> alert('Esta funcion aun no esta disponible')}>Account</button>
       </div>
     </nav>
   )
